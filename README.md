@@ -1,4 +1,5 @@
-# Reactize (Crystallize front-end with React & Webpack)
+# Reactize
+Crystallize front-end with React & Webpack
 
 **Table of Contents**
 
